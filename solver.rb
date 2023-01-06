@@ -1,7 +1,7 @@
 class Solver
   def factorial(num)
     if num < 0
-      raise ExceptionError, 'RuntimeError'
+      raise RuntimeError, 'RuntimeError'
     elsif (num == 0 or num == 1)
       return 1
     else
