@@ -43,6 +43,7 @@ PLATFORMS
 
 DEPENDENCIES
   rspec
+  rspec-mocks
   rubocop (>= 1.0, < 2.0)
 
 BUNDLED WITH
