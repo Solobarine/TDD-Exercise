@@ -34,14 +34,14 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [TDD with Rspec] <a name="about-project"></a>
 
 > We WrOte unit tests using Rspec.
 > Showed an Understanding of  an existing codebase in a way that allows for adding tests.
 >Wrote Rspec unit tests with mocks.
 >Understood the TDD concept.
 
-**[your_project__name]** is a...
+ ## TEST DRIVEN DEVELOPMENT WITH RSPEC
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -94,7 +94,6 @@
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -118,8 +117,8 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd folder
+  git clone https://github.com/Solobarine/TDD-Exercise.git
 ```
 --->
 
@@ -220,9 +219,8 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
 
-If you like this project...
+If you like this project please give a star
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -230,9 +228,8 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
 
-I would like to thank...
+I would like to thank Microverse for the idea behind this
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
