@@ -1,4 +1,4 @@
-require "solver"
+require "./solver"
 require "rspec"
 
 RSpec.describe Solver do
